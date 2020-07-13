@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 </div>
 
 - 🔭 I’m currently working on ...
-  [ ] App de Cálculo de Bordados
+  - [ ] App de Cálculo de Bordados
   
 - 🌱 I’m currently learning ...
-  [ ] Kotlin
-  [ ] Python
-  [ ] Flask
-  [ ] VueJS
-  [ ] MongoDB
+  - [ ] Kotlin
+  - [ ] Python
+  - [ ] Flask
+  - [ ] VueJS
+  - [ ] MongoDB
 
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/wprosdocimo?logo=twitch&logoColor=9146FF&style=for-the-badge">
