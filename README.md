@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - [ ] App de Cálculo de Bordados
   
 🌱 I’m currently learning ...
-- [ ] Java (Android)
+- [X] Java (Android)
 - [ ] Kotlin (Android)
 - [ ] Python
 - [ ] Flask
