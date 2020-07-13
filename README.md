@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-  <a href="https://www.instagram.com/luismanfroni/" target="_blank">
+  <a href="https://www.instagram.com/wprosdocimo/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   
@@ -45,15 +45,7 @@ Here are some ideas to get you started:
 
 </div>
 
-```lua
-Luis = {}
-function Luis:new()
-    self.name = "Luis Felipe Manfroni"
-    self.age = 23
-    self.mainLanguages = {'Rust', 'C#', 'Java', 'Javascript', 'Lua'}
-    return self
-end
-```
+
 
 <img alt="Twitch Status" src="https://img.shields.io/twitch/status/siulmanfroni?logo=twitch&logoColor=9146FF&style=for-the-badge">
 
