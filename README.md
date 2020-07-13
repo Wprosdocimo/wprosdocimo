@@ -45,8 +45,14 @@ Here are some ideas to get you started:
 
 </div>
 
+- 🔭 I’m currently working on ...
+  [ ] App de Cálculo de Bordados
+  
+- 🌱 I’m currently learning ...
+  [ ] Kotlin
+  [ ] Python
+  [ ] Flask
+  [ ] VueJS
+  [ ] MongoDB
 
-
-<img alt="Twitch Status" src="https://img.shields.io/twitch/status/siulmanfroni?logo=twitch&logoColor=9146FF&style=for-the-badge">
-
-[![HitCount](http://hits.dwyl.com/luismanfroni/luismanfroni.svg)](http://hits.dwyl.com/luismanfroni/luismanfroni)
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/wprosdocimo?logo=twitch&logoColor=9146FF&style=for-the-badge">
