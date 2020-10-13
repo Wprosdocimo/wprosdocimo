@@ -61,3 +61,6 @@ Here are some ideas to get you started:
 - [ ] Flask
 - [ ] VueJS
 - [ ] MongoDB
+
+### My Statistics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Programing languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wprosdocimo&layout=compact)](https://github.com/eduubessa/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img height="165px" src="https://github-readme-stats.vercel.app/api?username=wprosdocimo&show_icons=true&text_color=2980b9&title_color=3498db&icon_color=3498db" />
